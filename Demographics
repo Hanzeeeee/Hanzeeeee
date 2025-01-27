@@ -1,0 +1,31 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        string PC = "PC 06";
+        int ID = 23809957;
+        string name = "Christ Hanzen Q. Rallos";
+        string nickname = "krayssst";
+        string gender = "Male";
+        string year = "2nd Year";
+        string address = "City of Mandaue, Cebu City";
+        string course = "BS in Information Technology";
+        string contact = "09506886467";
+        int age = 19;
+        string email = "kagornigaw@gmail.com";
+        
+        Console.WriteLine("PC           : " + PC);
+        Console.WriteLine("ID           : " + ID);
+        Console.WriteLine("Name         : " + name);
+        Console.WriteLine("Nickname     : " + nickname);
+        Console.WriteLine("Gender       : " + gender);
+        Console.WriteLine("Year         : " + year);
+        Console.WriteLine("Address      : " + address);
+        Console.WriteLine("Course       : " + course);
+        Console.WriteLine("Contact      : " + contact);
+        Console.WriteLine("Age          : " + age);
+        Console.WriteLine("Email        : " + email);
+    }
+}
