@@ -12,10 +12,10 @@ I am a BSIT graduate with a strong passion for technology, continuous learning, 
 ![](https://streak-stats.demolab.com/?user=Hanzeeeee&theme=neon&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hanzeeeee&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hanzeeeee&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Qoute for the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
   ## 💰 You can help me by Donating
