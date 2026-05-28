@@ -18,7 +18,7 @@ I am a BSIT graduate with a strong passion for technology, continuous learning, 
 ### ✍️ Qoute for the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Help me:
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/in_kraist) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RallyQt143) 
 
   
