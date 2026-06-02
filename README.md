@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am a BSIT graduate with a strong passion for technology, continuous learning, and creative digital work. During my academic journey at the University of Cebu, I became an active member of the Philippine Society of Information Technology Students, where I enhanced my leadership, teamwork, and technical skills through various academic and organizational activities. I am currently working as a freelancer and looking forward to future collaborations and opportunities in the field of information technology. I continuously study different programming languages and technologies as I aim to expand my knowledge toward more advanced development and innovation. Aside from programming, I am also an intermediate video editor with experience working with the Cebu Schools Athletic Foundation, Inc. (CESAFI), which further strengthened my creativity and multimedia skills. If you would like to connect or collaborate with me, you may contact me through my Gmail account.<br>
+I am a Bachelor of Science in Information Technology (BSIT) graduate with a strong interest in technology, continuous learning, and digital creativity. During my studies at the University of Cebu, I was an active member of the Philippine Society of Information Technology Students, where I developed my leadership, teamwork, and technical skills through various academic and organizational activities.
+
+I am currently working as a freelancer and am open to new opportunities and collaborations in the field of information technology. I continue to enhance my knowledge by studying programming languages and emerging technologies to support my growth in software development and innovation.
+
+In addition to programming, I have intermediate-level experience in video editing and have worked with Cebu Schools Athletic Foundation, Inc., which helped strengthen my creativity and multimedia production skills.
+
+If you would like to connect or collaborate, please feel free to contact me through my Gmail account.<br>
 
 
 ## 🌐 Socials:
